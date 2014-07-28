@@ -1,7 +1,7 @@
 {
-    "name": "fko/mypdo",
-    "description": "PHP class to make interacting with a database ridiculusly easy.",
-    "license": "LGPL",
+    "name": "fko2221/mypdo",
+    "description": "An enhancement to the MySQL PDO library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Kent Oyer",
