@@ -1,0 +1,19 @@
+{
+    "name": "fko/mypdo",
+    "description": "PHP class to make interacting with a database ridiculusly easy.",
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Kent Oyer",
+            "email": "kent.oyer@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "classmap": [
+            "mypdo.php",
+        ]
+    }
+}
