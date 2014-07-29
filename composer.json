@@ -13,7 +13,7 @@
     },
     "autoload": {
         "classmap": [
-            "mypdo.php",
+            "mypdo.php"
         ]
     }
 }
